@@ -7,7 +7,7 @@ Welcome to the repository for my very first PCB design, crafted specifically for
 
 ## About the Project
 
-The A-10C UFC PCB is for my custom A-10C cockpit control panel. You can read all about my journey [on my blog](https://michler.io).
+The A-10C UFC PCB is for my custom A-10C cockpit control panel. You can read all about my journey [on my blog](https://mahrt.io/diy-a-10c-upfront-control-panel-pcb/).
 
 ## Repository Contents
 
