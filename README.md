@@ -28,3 +28,6 @@ This project is licensed under the GNU GPLv3 License - see the [LICENSE](LICENSE
 - TheWarthogProject.com - dude, you're amazing!
 
 Happy building!
+
+# Notes
+The image of the manufactured PCB is v1.0 which contained a lot of mistakes! (oopsie). I'll update it as soon as the new ones arrive!
