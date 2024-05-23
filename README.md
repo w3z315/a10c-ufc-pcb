@@ -15,6 +15,11 @@ Thank you so much [PCBWay.com](https://pcbway.com) for sponsoring this project! 
 ## About the Project
 The A-10C UFC PCB is for my custom A-10C cockpit control panel.
 
+## Todos:
+- [ ] Add more backlight LEDs so the bottom row is better illuminated.
+- [ ] Add another yellow LED for the Master Caution to spread out light more evenly.
+- [ ] Better connector?
+
 ## Arduino Code
 You can find the code for the PCB and Arduino Nano at [https://github.com/w3z315/a10c-ufc-arduino](https://github.com/w3z315/a10c-ufc-arduino).
 
@@ -29,7 +34,6 @@ Inside this repository, you'll find all the KiCad files used to create the PCB. 
 
 
 ## Issues and Contributing
-
 If you notice any issues or if you've got suggestions for improvements, don't hesitate to open an issue or a pull request. This project is all about community and collaboration.
 
 ## License
