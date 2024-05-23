@@ -3,15 +3,22 @@
 
 Welcome to the repository for my very first PCB design, crafted specifically for an A-10C cockpit simulator project. This project has been a labor of love, a lot of learning, and yes, a few missteps - but that's the beauty of DIY!
 
+## Demo Video
+
+Check out the demo video to see the A10C UFC in action:
+
+[![A10C UFC Demo](https://img.youtube.com/vi/IKTZMvRl_7A/0.jpg)](https://www.youtube.com/watch?v=IKTZMvRl_7A)
+
 ## Sponsorship
 Thank you so much [PCBWay.com](https://pcbway.com) for sponsoring this project! I was genuinely surprised by how quickly the PCBs arrived - in just 9 days, without even opting for the very express shipping variant. The quality is outstanding, and the PCBs work flawlessly in my setup. It's been a fantastic experience, from design submission to receiving the boards ready for assembly.
 
 ## About the Project
+The A-10C UFC PCB is for my custom A-10C cockpit control panel.
 
-The A-10C UFC PCB is for my custom A-10C cockpit control panel. You can read all about my journey [on my blog](https://mahrt.io/diy-a-10c-upfront-control-panel-pcb/).
+## Arduino Code
+You can find the code for the PCB and Arduino Nano at [https://github.com/w3z315/a10c-ufc-arduino](https://github.com/w3z315/a10c-ufc-arduino).
 
 ## Repository Contents
-
 Inside this repository, you'll find all the KiCad files used to create the PCB. Feel free to browse through them, use them as a reference, or even contribute to improving the design.
 
 ## Images & gifs
